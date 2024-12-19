@@ -6,7 +6,7 @@ title: David Singerman's CV
 Assistant Professor of History and American Studies, University of Virginia
 
 <div id="webaddress">
-<a href="ds2ax@virginia.edu">ds2ax@virginia.edu</a>
+<a href="mailto:ds2ax@virginia.edu">ds2ax@virginia.edu</a>
 | <a href="https://www.davidsingerman.com">davidsingerman.com</a>
 </div>
 
@@ -127,6 +127,131 @@ Review of C. Allan Jones and Robert V. Osgood, *From King Cane to
     University of California - Irvine, 2010), at
     dissertationreviews.org, April 2012.
 
+## Talks and presentations
+### Invited talks
+
+Four invited seminars at the École des Hautes Études en Sciences
+    Sociales, Paris, May-June 2024. [Click here for more information on
+    the *professeur invité*
+    webpage.](https://www.ehess.fr/fr/personne/david-singerman)
+
+"Freedom From the New World: The Invention of Beet Sugar," Princeton
+    University Davis Seminar, 31 March 2023.
+
+"Is history funny?" Harriet Ritvo Symposium, Massachusetts Institute
+    of Technology. 30 April 2022. [Click here to watch the
+    talk.](https://youtu.be/DPsgzl8WMyY)
+
+"Sugar!" UVA Medical Center Hour. 6 March 2019. [Click here to watch
+    the talk.](https://www.youtube.com/watch?v=1ETmlpnEVa4&t=915s)
+
+"Stolen sugar, smuggled herring, and other lessons in corruption
+    from the Gilded Age." United States Department of the Treasury,
+    Treasury Historical Association 1500 Penn Prize Lecture. 6 February
+    2019.
+
+"Sugar," at Edible Environments summer school, Concordia University,
+    Montreal. 10 July 2018.
+
+"Sugar, science, and the history of capitalism," Department Seminar,
+    History and Philosophy of Science, University of Cambridge. 1
+    February 2018.
+
+"Inventing Purity in the Atlantic Sugar World, 1860-1930," Coleman
+    Prize Plenary Session, Association of Business Historians Annual
+    Meeting, Exeter, UK. 3 July 2015.
+
+"Inventing Purity in the Atlantic Sugar World, 1860-1930," Krooss
+    Prize Plenary Session, Business History Conference, Miami, Florida.
+    26 June 2015.
+
+"Purity and Power in the American Sugar Empire," Lafayette College,
+    Easton, PA. 23 April 2015.
+
+### Presentations and Roundtables
+
+"Freedom from the New World: The Invention of Beet Sugar." Business
+    History Collective (online). 6 April 2021. [Click here to watch the
+    presentation.](https://bizhiscollective.wordpress.com/2021/02/08/global0014-freedom-from-the-new-world-the-invention-of-beet-sugar/)
+
+Roundtable participant, "Histories of Science, Technology, and
+    Capitalism in Latin America and the Caribbean," History of Science
+    Society/Society for the History of Technology Joint Meeting, New
+    Orleans. 19 November 2021.
+
+"How Hawaiian sugar colonized the Caribbean," American Society for
+    Environmental History Annual Meeting, Columbus, OH. 13 April 2019.
+
+"The Limits of Control in the Ingenio Central, 1860-1935."
+    Association of Caribbean Historians 2016 Conference, Havana, Cuba.
+    June 2016.
+
+"Sugar Work and Scientific Control in Puerto Rico and Hawaii,
+    1875-1920." Organization of American Historians 2016 Annual Meeting,
+    Providence, Rhode Island. April 2016.
+
+"Local Laboratories and Global Standards in the Sugar Trade,
+    1907-1930." Business History Conference 2016 Annual Meeting,
+    Portland, Oregon. March 2016.
+
+"Frozen Herring and the Gilded Age State." American Society for
+    Environmental History 2015 Annual Conference, Washington, D.C. 19
+    March 2015.
+
+"Sweetness and Control: Chemists in the Sugar Market." American
+    Historical Association 2015 Annual Meeting, New York. 4 January
+    2015.
+
+"Sugar, Labor, and Chemical Control in the Caribbean." Small
+    Conference on Labor and Empire (sponsored by *Labor: Studies in
+    Working-Class History of the Americas*), University of California,
+    Santa Barbara. 15 November 2014.
+
+### Conferences and Panels Chaired or Organized
+
+(chair) "Histories of Data and the Data of History," History of
+    Science Society/Society for the History of Technology 2021 Joint
+    Meeting
+
+(chair) "Labor Control as Management Strategy,", Business History
+    Conference 2021 Annual Meeting
+
+(organizer and chair) "After María: What Environmental History can
+    Learn from the Caribbean," American Society for Environmental
+    History Annual Meeting. Columbus, OH. 10-13 April 2019.
+
+(organizer) "Measuring Nature: Commodities and Standards," Business
+    History Conference 2016 Annual Meeting, Portland, Oregon. March
+    2016.
+
+(organizer) "Poisoned and Pissed: Public Scandals and Environmental
+    Regulation," American Society for Environmental History 2015 Annual
+    Meeting, Washington, D.C. 18-22 March 2015.
+
+(organizer) "The Authority of Science at the Edges of Empire."
+    American Historical Association 2015 Annual Meeting, New York. 4
+    January 2015.
+
+# Research Grants, Fellowships, and Prizes
+
+Treasury Historical Association 1500 Penn Prize, 2018
+
+New York Public Library Short-Term Research Fellowship, 2017
+
+Krooss Prize for Best Dissertation in Business History, Business
+    History Conference, 2015
+
+Coleman Prize for Best Dissertation in Business History, Association
+    of Business Historians (UK), 2015
+
+Society for the History of Alchemy and Chemistry Research Award,
+    2014-15
+
+Massachusetts Historical Society Short-Term Fellowship, 2014-15
+
+Visiting Fellowship, American Academy of Arts and Sciences, 2014-15
+    (declined)
+
 ## Education
 
 `2007-2014`
@@ -139,45 +264,7 @@ __MPhil, History and Philosophy of Science, University of Cambridge__
 __BA, History, Columbia University__
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
