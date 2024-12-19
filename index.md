@@ -10,8 +10,6 @@ updated 2024-12-19
 | <a href="https://www.davidsingerman.com">davidsingerman.com</a>
 </div>
 
-{:toc}
-
 ## Current position
 
 ### 2017-present
