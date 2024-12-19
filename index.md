@@ -24,6 +24,10 @@ Steering Committee, History Department
 Dean's Science and Society Advisory Committee
 Dean's Wayfinding Advisory Committee
 
+## Current research projects
+
+History of performance-enhancing drugs, especially erythropoietin
+
 ## Academic publications
 
 ### Book
