@@ -3,13 +3,12 @@ layout: cv
 title: David Singerman's CV
 ---
 # David Singerman THIS CV IS A TEST/DRAFT, PLEASE DO NOT REFER TO IT
-updated 2024-12-18
+updated 2024-12-19
 
 <div id="webaddress">
 <a href="mailto:ds2ax@virginia.edu">ds2ax@virginia.edu</a>
 | <a href="https://www.davidsingerman.com">davidsingerman.com</a>
 </div>
-
 
 ## Current position
 
@@ -17,14 +16,14 @@ updated 2024-12-18
 
 Assistant Professor of History and American Studies, University of Virginia
 
-### Current service obligations
+### Current service
 
 Director of Undergraduate Program, American Studies
 Steering Committee, History Department
 Dean's Science and Society Advisory Committee
 Dean's Wayfinding Advisory Committee
 
-## Current research projects
+## Ongoing research projects
 
 History of performance-enhancing drugs, especially erythropoietin
 
