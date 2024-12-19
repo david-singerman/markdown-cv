@@ -16,7 +16,9 @@ updated 2024-12-19
 
 Assistant Professor of History and American Studies, University of Virginia
 
-### Service positions
+#### Service
+
+College Fellows Program
 
 Director of Undergraduate Program, American Studies
 
@@ -26,7 +28,7 @@ Dean's Science and Society Advisory Committee
 
 Dean's Wayfinding Advisory Committee
 
-## Ongoing research projects
+## Current research projects
 
 History of performance-enhancing drugs, especially erythropoietin
 
