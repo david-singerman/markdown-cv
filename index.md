@@ -232,7 +232,7 @@ Roundtable participant, "Histories of Science, Technology, and
     American Historical Association 2015 Annual Meeting, New York. 4
     January 2015.
 
-# Research Grants, Fellowships, and Prizes
+## Research Grants, Fellowships, and Prizes
 
 Treasury Historical Association 1500 Penn Prize, 2018
 
