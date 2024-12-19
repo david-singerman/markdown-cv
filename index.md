@@ -55,27 +55,22 @@ Assistant Professor of History and American Studies, University of Virginia
 
 ## Public writing
 
-"Public Thinker: Lara Putnam Wants You to Knock on Your Neighbor's
-    Door," *Public Books* online, July 2022. [Click here to read the
-    article.](https://www.publicbooks.org/lara-putnam-wants-you-to-knock-on-your-neighbors-door/)
+"[Public Thinker: Lara Putnam Wants You to Knock on Your Neighbor's
+    Door,]([url](https://www.publicbooks.org/lara-putnam-wants-you-to-knock-on-your-neighbors-door/))" *Public Books* online, July 2022.
 
-"There's Something Fishy about U.S.-Canada Trade Wars," *The
-    Atlantic* online, 14 June 2018. [Click here to read the
-    article.](https://www.theatlantic.com/international/archive/2018/06/america-canada-tariff-herring/562844/)
+"[There's Something Fishy about U.S.-Canada Trade Wars]([url](https://www.theatlantic.com/international/archive/2018/06/america-canada-tariff-herring/562844/))," *The
+    Atlantic* online, 14 June 2018.
 
-"Zones of Doubt: What we can learn about trade policy from a
+"[Zones of Doubt: What we can learn about trade policy from a
     misbegotten 19th century effort to quantify the chemical properties
-    of wool," *Bunk*, 2 October 2018, [Click here to read the
-    article.](https://www.bunkhistory.org/resources/3212)
+    of wool]([url](https://www.bunkhistory.org/resources/3212))," *Bunk*, 2 October 2018.
 
-"The Sugar Tramp: One man's obsession with the ephemera of his
-    industry," *Bunk*, 10 January 2018, [Click here to read the
-    article](https://www.bunkhistory.org/resources/1639)
+"[The Sugar Tramp: One man's obsession with the ephemera of his
+    industry]([url](https://www.bunkhistory.org/resources/1639))," *Bunk*, 10 January 2018.
 
-"The Other End of the Telescope: Considering astronomy's history
+"[The Other End of the Telescope: Considering astronomy's history
     from the shadow of the Arecibo Observatory reveals the discipline's
-    intimate ties to imperialism," *Bunk*, 24 November 2017, [Click here
-    to read the article.](https://www.bunkhistory.org/resources/1445)
+    intimate ties to imperialism]([url](https://www.bunkhistory.org/resources/1445))," *Bunk*, 24 November 2017.
 
 "When Science Was Big: This year's Nobel Prize in physics is a blast
     from the past of Cold War-era research investment. Is that era gone
@@ -252,16 +247,24 @@ Massachusetts Historical Society Short-Term Fellowship, 2014-15
 Visiting Fellowship, American Academy of Arts and Sciences, 2014-15
     (declined)
 
+## Prior positions
+
+### 2015-2016
+Research Associate, Harvard Business School
+
+### 2014-2015
+Postdoctoral Associate, Rutgers Center for Historical Analysis
+
 ## Education
 
-`2007-2014`
-__PhD, Program in History, Anthropology, and Science, Technology, & Society, MIT__
+### 2014
+__PhD, MIT__, Program in History, Anthropology, and Science, Technology, & Society
 
-`2006-2007`
-__MPhil, History and Philosophy of Science, University of Cambridge__
+### 2007
+__MPhil, University of Cambridge__, History and Philosophy of Science
 
-`2002-2006`
-__BA, History, Columbia University__
+### 2006
+__BA, Columbia University__, History
 
 
 
