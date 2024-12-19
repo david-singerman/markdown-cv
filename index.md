@@ -19,7 +19,7 @@ Assistant Professor of History and American Studies, University of Virginia
 
 ### Book
 
-*Unrefined: How Capitalism Reinvented Sugar.* Forthcoming September 2025 from the University of Chicago Press. Part of the [Synthesis series]([url](https://press.uchicago.edu/ucp/books/series/SYN.html)) in the history of chemistry.
+*Unrefined: How Capitalism Reinvented Sugar.* Forthcoming September 2025 from the University of Chicago Press. Part of the [Synthesis series](https://press.uchicago.edu/ucp/books/series/SYN.html) in the history of chemistry.
 
 ### Articles and chapters
 
@@ -27,7 +27,7 @@ Assistant Professor of History and American Studies, University of Virginia
     About the Origins of Modern Food*, ed. Benjamin Cohen, Anna Zeide,
     and Michael Kideckel (MIT Press, 2021)
 
-"[The Reproducibility Crisis in the Age of Digital Medicine]([url](https://www.nature.com/articles/s41746-019-0079-z))" (with
+"[The Reproducibility Crisis in the Age of Digital Medicine](https://www.nature.com/articles/s41746-019-0079-z)" (with
     Aaron Stupple and Leo Anthony Celi), *npj Digital Medicine* 2, no. 1
     (January 29, 2019): 2.
 
@@ -56,30 +56,28 @@ Assistant Professor of History and American Studies, University of Virginia
 ## Public writing
 
 "[Public Thinker: Lara Putnam Wants You to Knock on Your Neighbor's
-    Door,]([url](https://www.publicbooks.org/lara-putnam-wants-you-to-knock-on-your-neighbors-door/))" *Public Books* online, July 2022.
+    Door,](https://www.publicbooks.org/lara-putnam-wants-you-to-knock-on-your-neighbors-door/)" *Public Books* online, July 2022.
 
-"[There's Something Fishy about U.S.-Canada Trade Wars]([url](https://www.theatlantic.com/international/archive/2018/06/america-canada-tariff-herring/562844/))," *The
+"[There's Something Fishy about U.S.-Canada Trade Wars](https://www.theatlantic.com/international/archive/2018/06/america-canada-tariff-herring/562844/)," *The
     Atlantic* online, 14 June 2018.
 
 "[Zones of Doubt: What we can learn about trade policy from a
     misbegotten 19th century effort to quantify the chemical properties
-    of wool]([url](https://www.bunkhistory.org/resources/3212))," *Bunk*, 2 October 2018.
+    of wool](https://www.bunkhistory.org/resources/3212)," *Bunk*, 2 October 2018.
 
 "[The Sugar Tramp: One man's obsession with the ephemera of his
-    industry]([url](https://www.bunkhistory.org/resources/1639))," *Bunk*, 10 January 2018.
+    industry](https://www.bunkhistory.org/resources/1639)," *Bunk*, 10 January 2018.
 
 "[The Other End of the Telescope: Considering astronomy's history
     from the shadow of the Arecibo Observatory reveals the discipline's
-    intimate ties to imperialism]([url](https://www.bunkhistory.org/resources/1445))," *Bunk*, 24 November 2017.
+    intimate ties to imperialism](https://www.bunkhistory.org/resources/1445)," *Bunk*, 24 November 2017.
 
-"When Science Was Big: This year's Nobel Prize in physics is a blast
+["When Science Was Big: This year's Nobel Prize in physics is a blast
     from the past of Cold War-era research investment. Is that era gone
-    for good?" *Bunk*, 19 October 2017, [Click here to read the
-    article.](https://www.bunkhistory.org/resources/1185)
+    for good?"](https://www.bunkhistory.org/resources/1185) *Bunk*, 19 October 2017.
 
-"The Shady History of Big Sugar," Op-Ed, *The New York Times*, 17
-    September 2016. [Click here to read the
-    article.](https://www.nytimes.com/2016/09/17/opinion/the-shady-history-of-big-sugar.html)
+["The Shady History of Big Sugar,"](https://www.nytimes.com/2016/09/17/opinion/the-shady-history-of-big-sugar.html) Op-Ed, *The New York Times*, 17
+    September 2016. 
 
 ## Reviews
 
