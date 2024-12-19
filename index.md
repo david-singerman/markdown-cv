@@ -55,28 +55,28 @@ Assistant Professor of History and American Studies, University of Virginia
 
 ## Public writing
 
-* "[Public Thinker: Lara Putnam Wants You to Knock on Your Neighbor's
+"[Public Thinker: Lara Putnam Wants You to Knock on Your Neighbor's
     Door,](https://www.publicbooks.org/lara-putnam-wants-you-to-knock-on-your-neighbors-door/)" *Public Books* online, July 2022.
 
-* "[There's Something Fishy about U.S.-Canada Trade Wars](https://www.theatlantic.com/international/archive/2018/06/america-canada-tariff-herring/562844/)," *The
+"[There's Something Fishy about U.S.-Canada Trade Wars](https://www.theatlantic.com/international/archive/2018/06/america-canada-tariff-herring/562844/)," *The
     Atlantic* online, 14 June 2018.
 
-* "[Zones of Doubt: What we can learn about trade policy from a
+"[Zones of Doubt: What we can learn about trade policy from a
     misbegotten 19th century effort to quantify the chemical properties
     of wool](https://www.bunkhistory.org/resources/3212)," *Bunk*, 2 October 2018.
 
-* "[The Sugar Tramp: One man's obsession with the ephemera of his
+"[The Sugar Tramp: One man's obsession with the ephemera of his
     industry](https://www.bunkhistory.org/resources/1639)," *Bunk*, 10 January 2018.
 
-* "[The Other End of the Telescope: Considering astronomy's history
+"[The Other End of the Telescope: Considering astronomy's history
     from the shadow of the Arecibo Observatory reveals the discipline's
     intimate ties to imperialism](https://www.bunkhistory.org/resources/1445)," *Bunk*, 24 November 2017.
 
-* ["When Science Was Big: This year's Nobel Prize in physics is a blast
+["When Science Was Big: This year's Nobel Prize in physics is a blast
     from the past of Cold War-era research investment. Is that era gone
     for good?"](https://www.bunkhistory.org/resources/1185) *Bunk*, 19 October 2017.
 
-* ["The Shady History of Big Sugar,"](https://www.nytimes.com/2016/09/17/opinion/the-shady-history-of-big-sugar.html) Op-Ed, *The New York Times*, 17
+["The Shady History of Big Sugar,"](https://www.nytimes.com/2016/09/17/opinion/the-shady-history-of-big-sugar.html) Op-Ed, *The New York Times*, 17
     September 2016. 
 
 ## Reviews
