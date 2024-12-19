@@ -15,10 +15,6 @@ Assistant Professor of History and American Studies, University of Virginia
 
 Assistant Professor of History and American Studies, University of Virginia
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
 ## Academic publications
 
 ### Book
