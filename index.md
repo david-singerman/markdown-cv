@@ -68,26 +68,18 @@ History of performance-enhancing drugs, especially erythropoietin
 
 ## Public writing
 
-"[Public Thinker: Lara Putnam Wants You to Knock on Your Neighbor's
-    Door,](https://www.publicbooks.org/lara-putnam-wants-you-to-knock-on-your-neighbors-door/)" *Public Books* online, July 2022.
+"[Public Thinker: Lara Putnam Wants You to Knock on Your Neighbor's Door,](https://www.publicbooks.org/lara-putnam-wants-you-to-knock-on-your-neighbors-door/)" *Public Books* online, July 2022.
 
 "[There's Something Fishy about U.S.-Canada Trade Wars](https://www.theatlantic.com/international/archive/2018/06/america-canada-tariff-herring/562844/)," *The
     Atlantic* online, 14 June 2018.
 
-"[Zones of Doubt: What we can learn about trade policy from a
-    misbegotten 19th century effort to quantify the chemical properties
-    of wool](https://www.bunkhistory.org/resources/3212)," *Bunk*, 2 October 2018.
+"[Zones of Doubt: What we can learn about trade policy from a misbegotten 19th century effort to quantify the chemical properties of wool](https://www.bunkhistory.org/resources/3212)," *Bunk*, 2 October 2018.
 
-"[The Sugar Tramp: One man's obsession with the ephemera of his
-    industry](https://www.bunkhistory.org/resources/1639)," *Bunk*, 10 January 2018.
+"[The Sugar Tramp: One man's obsession with the ephemera of his industry](https://www.bunkhistory.org/resources/1639)," *Bunk*, 10 January 2018.
 
-"[The Other End of the Telescope: Considering astronomy's history
-    from the shadow of the Arecibo Observatory reveals the discipline's
-    intimate ties to imperialism](https://www.bunkhistory.org/resources/1445)," *Bunk*, 24 November 2017.
+"[The Other End of the Telescope: Considering astronomy's history from the shadow of the Arecibo Observatory reveals the discipline's intimate ties to imperialism](https://www.bunkhistory.org/resources/1445)," *Bunk*, 24 November 2017.
 
-["When Science Was Big: This year's Nobel Prize in physics is a blast
-    from the past of Cold War-era research investment. Is that era gone
-    for good?"](https://www.bunkhistory.org/resources/1185) *Bunk*, 19 October 2017.
+["When Science Was Big: This year's Nobel Prize in physics is a blast from the past of Cold War-era research investment. Is that era gone for good?"](https://www.bunkhistory.org/resources/1185) *Bunk*, 19 October 2017.
 
 ["The Shady History of Big Sugar,"](https://www.nytimes.com/2016/09/17/opinion/the-shady-history-of-big-sugar.html) Op-Ed, *The New York Times*, 17
     September 2016. 
@@ -137,19 +129,15 @@ Review of C. Allan Jones and Robert V. Osgood, *From King Cane to
 ### Invited talks
 
 Four invited seminars at the École des Hautes Études en Sciences
-    Sociales, Paris, May-June 2024. [Click here for more information on
-    the *professeur invité*
-    webpage.](https://www.ehess.fr/fr/personne/david-singerman)
+    Sociales, Paris, May-June 2024. [Click here for more information on the *professeur invité* webpage.](https://www.ehess.fr/fr/personne/david-singerman)
 
 "Freedom From the New World: The Invention of Beet Sugar," Princeton
     University Davis Seminar, 31 March 2023.
 
 "Is history funny?" Harriet Ritvo Symposium, Massachusetts Institute
-    of Technology. 30 April 2022. [Click here to watch the
-    talk.](https://youtu.be/DPsgzl8WMyY)
+    of Technology. 30 April 2022. [Click here to watch the talk.](https://youtu.be/DPsgzl8WMyY)
 
-"Sugar!" UVA Medical Center Hour. 6 March 2019. [Click here to watch
-    the talk.](https://www.youtube.com/watch?v=1ETmlpnEVa4&t=915s)
+"Sugar!" UVA Medical Center Hour. 6 March 2019. [Click here to watch the talk.](https://www.youtube.com/watch?v=1ETmlpnEVa4&t=915s)
 
 "Stolen sugar, smuggled herring, and other lessons in corruption
     from the Gilded Age." United States Department of the Treasury,
@@ -177,8 +165,7 @@ Four invited seminars at the École des Hautes Études en Sciences
 ### Presentations and Roundtables
 
 "Freedom from the New World: The Invention of Beet Sugar." Business
-    History Collective (online). 6 April 2021. [Click here to watch the
-    presentation.](https://bizhiscollective.wordpress.com/2021/02/08/global0014-freedom-from-the-new-world-the-invention-of-beet-sugar/)
+    History Collective (online). 6 April 2021. [Click here to watch the presentation.](https://bizhiscollective.wordpress.com/2021/02/08/global0014-freedom-from-the-new-world-the-invention-of-beet-sugar/)
 
 Roundtable participant, "Histories of Science, Technology, and
     Capitalism in Latin America and the Caribbean," History of Science
