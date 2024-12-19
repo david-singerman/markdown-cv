@@ -3,7 +3,7 @@ layout: cv
 title: David Singerman's CV
 ---
 # David Singerman
-Assistant Professor of History and American Studies, University of Virginia
+updated 2024-12-18
 
 <div id="webaddress">
 <a href="mailto:ds2ax@virginia.edu">ds2ax@virginia.edu</a>
