@@ -16,7 +16,7 @@ updated 2024-12-19
 
 Assistant Professor of History and American Studies, University of Virginia
 
-#### Service
+### Service
 
 College Fellows Program
 
@@ -30,7 +30,9 @@ Dean's Wayfinding Advisory Committee
 
 ## Current research projects
 
-History of performance-enhancing drugs, especially erythropoietin
+History of performance-enhancing drugs, especially erythropoietin (EPO)
+
+Sports and advanced technology, especiallg automation and simulation
 
 ## Academic publications
 
