@@ -268,13 +268,13 @@ Postdoctoral Associate, Rutgers Center for Historical Analysis
 
 ## Education
 
-### 2014
+### 2007-2014
 __PhD, MIT__, Program in History, Anthropology, and Science, Technology, & Society
 
-### 2007
+### 2006-2007
 __MPhil, University of Cambridge__, History and Philosophy of Science
 
-### 2006
+### 2002-2006
 __BA, Columbia University__, History
 
 
