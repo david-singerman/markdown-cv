@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Singerman's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David Singerman
+Assistant Professor of History and American Studies, University of Virginia
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,9 +11,9 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## Current position
 
-Standing on the shoulders of giants
+Assistant Professor of History and American Studies, University of Virginia
 
 ### Specialized in
 
@@ -27,19 +27,14 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007-2014`
+__PhD, Program in History, Anthropology, and Science, Technology, & Society, MIT__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2006-2007`
+__MPhil, History and Philosophy of Science, University of Cambridge__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2002-2006`
+__BA, History, Columbia University__
 
 
 ## Awards
