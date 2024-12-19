@@ -13,7 +13,16 @@ updated 2024-12-18
 
 ## Current position
 
+### 2017-present
+
 Assistant Professor of History and American Studies, University of Virginia
+
+### Current service obligations
+
+Director of Undergraduate Program, American Studies
+Steering Committee, History Department
+Dean's Science and Society Advisory Committee
+Dean's Wayfinding Advisory Committee
 
 ## Academic publications
 
