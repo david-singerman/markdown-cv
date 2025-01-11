@@ -87,9 +87,7 @@ Review of C. Allan Jones and Robert V. Osgood, *From King Cane to the Last Sugar
 
 ## Teaching
 
-### Courses
-
-#### Department of History
+### Courses in History
 
 HIST 9559, "Global History of Science, Technology, and Medicine" (Spring 2025)
 
@@ -101,13 +99,13 @@ HIST 1501, "The Global Financial Crisis of 2008" (Fall 2018, Fall 2020, Fall 202
 
 HIST 1501, "Corruption and Fraud" (Fall 2017)
 
-#### Department of American Studies
+### Courses in American Studies
 
 AMST 3001, "Theories and Methods of American Studies" (Spring 2018, Fall 2018, Spring 2022, Fall 2022, Spring 2023, Spring 2024)
 
 AMST 3559, "Science and Democracy in America" (Spring 2018)
 
-#### Arts & Sciences Curriculum
+### Courses in Arts & Sciences programs
 
 EGMT 1520: "Empirical and Scientific Engagement: Information and Democracy" (Fall 2024, Spring 2025)
 
@@ -115,8 +113,7 @@ FORU 1500, "The World Gone Wrong: Introduction to the Forum" (Fall 2019)
 
 FORU 2500, "The World Gone Wrong: Forum Capstone" (Spring 2021)
 
-#### External
-
+### External courses
 
 Four seminars at the École des hautes études en sciences sociales, Paris, May-June 2024 ([link](https://www.ehess.fr/fr/personne/david-singerman)) 
 
@@ -132,25 +129,20 @@ UVA Library Course Enrichment Grant (2020)
 
 Faculty AI Guide Program (2024-present)
 
-### Teaching-related service
+### Departmental teaching-related service
 
-College Fellows Program (Fall 2024-Spring 2026)
-
-#### Department of American Studies
-	
-Director of Undergraduate Program (Fall 2024 
+Director of Undergraduate Program, American Studies (Fall 2024 
 present)
 	
-Assessment Director (2019-present)
+Assessment Director, American Studies (2019-present)
 
-#### Department of History
-	
-Co-organizer, MADCAP history of capitalism workshop (2017-2023)
+Faculty co-organizer, MADCAP history of capitalism workshop (2017-2023)
 	
 Faculty advisor, graduate-student-led department colloquium (2021-2023)
 
+### University/College teaching-related service
 
-#### University/College
+College Fellows Program (Fall 2024-Spring 2026)
 	
 Dean's Science and Society Advisory Committee (2025)
 	
@@ -160,13 +152,13 @@ Reader, Harrison Undergraduate Research Award (2024)
 	
 Organized and funded Corruption Lab (Democracy Initiative) graduate fellowship program (2020-2021)
 
-#### Civic engagement
+### Civic engagement
 	
 Organized voter registration drive for all Engagements classes (Fall 2024)
 	
 Visited 10-15 classes per year to register hundreds of students to vote (2017-2023)
 
-#### Advising
+### Advising
 	
 USOAR Research Mentorship Program students: 2
 	
@@ -181,9 +173,6 @@ Harrison Undergraduate Research Awards supervised: 1
 Departmental advisees: 15 per year
 	
 1st and 2nd year advisees: 10 (2019-2021)
-
-
-
 
 ## Talks, presentations, and conferences
 
