@@ -7,7 +7,7 @@ title: David Singerman's CV
 Assistant Professor of History and American Studies, University of Virginia \
 (2017-present)
 
-Email: d s 2 a x _at_ virginia dot e d u
+Email: d s 2 a x (at) virginia dot e d u \
 Website: [davidsingerman.com](https://davidsingerman.com)
 
 
