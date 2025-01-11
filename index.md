@@ -10,8 +10,6 @@ Assistant Professor of History and American Studies, University of Virginia \
 Email: d s 2 a x (at) virginia dot e d u \
 Website: [davidsingerman.com](https://davidsingerman.com)
 
-
-
 ## Current projects
 
 - History of performance-enhancing drugs, especially erythropoietin (EPO)
