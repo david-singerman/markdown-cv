@@ -131,6 +131,8 @@ UVA Library Course Enrichment Grant (2020)
 
 Faculty AI Guide Program (2024-present)
 
+Casteen Faculty Fellowship in the Teaching of Ethics (2021) 
+
 ### Departmental teaching-related service
 
 Director of Undergraduate Program, American Studies (Fall 2024 
