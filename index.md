@@ -7,8 +7,10 @@ title: David Singerman's CV
 Assistant Professor of History and American Studies, University of Virginia \
 (2017-present)
 
-Email: d s 2 a x (at) virginia dot e d u \
-Website: [davidsingerman.com](https://davidsingerman.com)
+Website: [davidsingerman.com](david.singerman@gmail.com) \
+Email: [ds2ax@virginia.edu](mailto:ds2ax@virginia.edu) \
+Office: 484 Nau Hall \
+Mail: PO Box 400180, Charlottesville, VA 22904
 
 ## Current projects
 
