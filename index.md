@@ -2,15 +2,17 @@
 layout: cv
 title: David Singerman's CV
 ---
-# David Singerman - CV updated 2025-1-10
+# David Singerman CV (updated 2025-02-23)
 
 Assistant Professor of History and American Studies, University of Virginia \
 (2017-present)
 
-Website: [davidsingerman.com](david.singerman@gmail.com) \
+Website: [davidsingerman.com](https://davidsingerman.com) \
 Email: [ds2ax@virginia.edu](mailto:ds2ax@virginia.edu) \
 Office: 484 Nau Hall \
 Mail: PO Box 400180, Charlottesville, VA 22904
+
+
 
 ## Current projects
 
@@ -33,7 +35,7 @@ Mail: PO Box 400180, Charlottesville, VA 22904
 
 ### Book
 
-*Unrefined: How Capitalism Reinvented Sugar* (University of Chicago Press, 2025). Part of the [Synthesis series](https://press.uchicago.edu/ucp/books/series/SYN.html) in the history of chemistry.
+*Unrefined: How Capitalism Reinvented Sugar* (University of Chicago Press, forthcoming September 2025). Part of the [Synthesis series](https://press.uchicago.edu/ucp/books/series/SYN.html) in the history of chemistry.
 
 ### Peer-reviewed articles and chapters
 
@@ -86,6 +88,10 @@ Review of April Merleaux, *Sweetness and Civilization: American Empire and the C
 Review of C. Allan Jones and Robert V. Osgood, *From King Cane to the Last Sugar Mill: Agricultural Technology and the Making of Hawai'i's Premier Crop* (University of Hawai'i Press, 2015), in *Hawaiian Journal of History* (2016).
 
 "Social History of Knowledge in the Slaveholding Atlantic World," review of Daniel Rood, "Plantation Technocrats: A Social History of Knowledge in the Slaveholding Atlantic World" (PhD dissertation, University of California - Irvine, 2010), at [dissertationreviews.org](https://dissertationreviews.org), April 2012.
+
+## Interviews and media
+
+February 22, 2025: Interviewed by Srijana Mitra Das for the Times of India Evoke section: ["Mass-produced sugar came from chemicals, corruption — and environmental destruction"](https://web.archive.org/web/20250222044455/https://timesofindia.indiatimes.com/mass-produced-sugar-came-from-chemicals-corruption-and-environmental-destruction/articleshow/118468169.cms)
 
 ## Teaching
 
@@ -152,7 +158,7 @@ Dean's Science and Society Advisory Committee (2025)
 	
 Dean's Wayfinding Advisory Committee (2025)
 	
-Reader, Harrison Undergraduate Research Award (2024)
+Reader, Harrison Undergraduate Research Award (2024, 2025)
 	
 Organized and funded Corruption Lab (Democracy Initiative) graduate fellowship program (2020-2021)
 
@@ -257,3 +263,14 @@ New York Public Library Short-Term Research Fellowship, 2017
 Society for the History of Alchemy and Chemistry Research Award, 2014
 
 Massachusetts Historical Society Short-Term Fellowship, 2014-15
+
+
+
+
+## Previous positions
+
+### 2015-2016
+Research Associate, Harvard Business School
+
+### 2014-2015
+Postdoctoral Associate, Rutgers Center for Historical Analysis
