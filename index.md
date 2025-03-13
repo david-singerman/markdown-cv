@@ -2,7 +2,7 @@
 layout: cv
 title: David Singerman's CV
 ---
-# David Singerman \
+# David Singerman
 
 `updated 2025-03-13`
 
