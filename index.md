@@ -2,7 +2,9 @@
 layout: cv
 title: David Singerman's CV
 ---
-# David Singerman CV (updated 2025-02-23)
+# David Singerman \
+
+`updated 2025-03-13`
 
 Assistant Professor of History and American Studies, University of Virginia \
 (2017-present)
@@ -16,7 +18,7 @@ Mail: PO Box 400180, Charlottesville, VA 22904
 
 ## Current projects
 
-- History of performance-enhancing drugs, especially erythropoietin (EPO)
+- History of performance-enhancing drugs, especially erythropoietin (EPO) and the [Enhanced Games](enhanced.com)
 - Sports and advanced technology, especially automation and simulation
 
 ## Education
@@ -35,25 +37,25 @@ Mail: PO Box 400180, Charlottesville, VA 22904
 
 ### Book
 
-*Unrefined: How Capitalism Reinvented Sugar* (University of Chicago Press, forthcoming September 2025). Part of the [Synthesis series](https://press.uchicago.edu/ucp/books/series/SYN.html) in the history of chemistry.
+*[Unrefined: How Capitalism Reinvented Sugar](https://press.uchicago.edu/ucp/books/book/chicago/U/bo251837774.html)* (University of Chicago Press, forthcoming September 2025). Part of the [Synthesis series](https://press.uchicago.edu/ucp/books/series/SYN.html) in the history of chemistry.
 
 ### Peer-reviewed articles and chapters
 
-"Who's Afraid of the Dark Sugar?," in *Acquired Tastes: Stories About the Origins of Modern Food*, ed. Benjamin Cohen, Anna Zeide, and Michael Kideckel (MIT Press, 2021)
+"[Modern Food as Ranked Food: Who's Afraid of the Dark Sugar?](https://doi.org/10.7551/mitpress/13790.003.0017)," in *Acquired Tastes: Stories About the Origins of Modern Food*, ed. Benjamin Cohen, Anna Zeide, and Michael Kideckel (MIT Press, 2021)
 
 "[The Reproducibility Crisis in the Age of Digital Medicine](https://www.nature.com/articles/s41746-019-0079-z)" (with Aaron Stupple and Leo Anthony Celi), *npj Digital Medicine* 2, no. 1 (January 29, 2019): 2.
 
-"Sugar machines and the fragile infrastructure of commodities in the nineteenth century," *Osiris* vol. 33 (2018), special issue on "Science and Capitalism: Entangled Histories."
+"[Sugar machines and the fragile infrastructure of commodities in the nineteenth century](https://doi.org/10.1086/699234)," *Osiris* vol. 33 (2018), special issue on "Science and Capitalism: Entangled Histories."
 
-"The Limits of Chemical Control in the Caribbean Sugar Factory," *Radical History Review* no. 127, "Political Histories of Technoscience," January 2017.
+"[The Limits of Chemical Control in the Caribbean Sugar Factory](https://doi.org/10.1215/01636545-3690858)," *Radical History Review* no. 127, "Political Histories of Technoscience," January 2017.
 
-"Keynesian Eugenics and the Goodness of the World," *Journal of British Studies* 55, no. 3, July 2016.
+"[Keynesian Eugenics and the Goodness of the World](https://dx.doi.org/10.1017/jbr.2016.56)," *Journal of British Studies* 55, no. 3, July 2016.
 
-"Science, Commodities, and Corruption in the Gilded Age," *Journal of the Gilded Age and Progressive Era* 15, no. 3, July 2016. (Awarded the 2018 Treasury Historical Association 1500 Penn Prize.)
+"[Science, Commodities, and Corruption in the Gilded Age](http://dx.doi.org/10.1017/S1537781416000128)," *Journal of the Gilded Age and Progressive Era* 15, no. 3, July 2016. (Awarded the 2018 Treasury Historical Association 1500 Penn Prize.)
 
-"Inventing Purity in the Atlantic Sugar World, 1860-1930," *Enterprise & Society* 16, no. 4, December 2015.
+"[Inventing Purity in the Atlantic Sugar World, 1860-1930](http://dx.doi.org/10.1017/eso.2015.74)," *Enterprise & Society* 16, no. 4, December 2015.
 
-"'A Doubt is At Best an Unsafe Standard': Measuring Sugar in the Early Bureau of Standards," *NIST Journal of Research*, January 2007.
+"['A Doubt is At Best an Unsafe Standard': Measuring Sugar in the Early Bureau of Standards,](http://dx.doi.org/10.6028/jres.112.004)" *NIST Journal of Research*, January 2007.
 
 ### Public writing
 
@@ -94,6 +96,10 @@ Review of C. Allan Jones and Robert V. Osgood, *From King Cane to the Last Sugar
 February 22, 2025: Interviewed by Srijana Mitra Das for the Times of India Evoke section: ["Mass-produced sugar came from chemicals, corruption — and environmental destruction"](https://web.archive.org/web/20250222044455/https://timesofindia.indiatimes.com/mass-produced-sugar-came-from-chemicals-corruption-and-environmental-destruction/articleshow/118468169.cms)
 
 ## Teaching
+
+### Awards
+
+UVA Alumni Board of Trustees Teaching Award, 2025 (given to an assistant professor at the university for outstanding teaching)
 
 ### Courses in History
 
